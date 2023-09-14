@@ -3,7 +3,7 @@
 ## Информация о себе
 - **Имя:** Набоков Николай
 - **Контактная информация:** +7(918)516-69-34
-- **Профиль GitHub:** [GitHub](https://github.com/HighPolyNeko)
+- **Профиль GitHub:** [HighPolyNeko](https://github.com/HighPolyNeko)
 
 ## Образование
 - **Уровень образования:** Высшее
